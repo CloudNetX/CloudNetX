@@ -1,4 +1,4 @@
-<img src="https://github.com/CloudNetX/CloudNetX/blob/943074922e0556e6f6a4fcf357e11643fa9ec262/1.png" align="left" style="width: 100%" />  
+<img src="https://github.com/CloudNetX/CloudNetX/blob/943074922e0556e6f6a4fcf357e11643fa9ec262/logo-transparent.png" align="left" style="width: 100%" />  
   
 
 ### <div align="center">Welcome to CloudNetX Technologies</div>  
