@@ -1,4 +1,4 @@
-<img src="https://github.com/CloudNetX/CloudNetX/blob/943074922e0556e6f6a4fcf357e11643fa9ec262/logo-transparent.png" align="left" style="width: 100%" />  
+<img src="https://github.com/CloudNetX/CloudNetX/blob/943074922e0556e6f6a4fcf357e11643fa9ec262/logo-transparent.png" align="left" style="width: 40%" />  
   
 
 ### <div align="center">Welcome to CloudNetX Technologies</div>  
@@ -26,6 +26,8 @@
 <a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 </div>
+<br>
+<div align="center">We Do Cloud Architect & Secure Pentesting for your organization!</div>
 
 ## Connect with us  
 <div align="center">
